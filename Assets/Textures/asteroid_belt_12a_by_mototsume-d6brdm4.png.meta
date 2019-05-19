@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 9cb88f127c155774895076106015edd0
+timeCreated: 1486748971
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asteroid_belt_12a_by_mototsume-d6brdm4_0
+    21300002: asteroid_belt_12a_by_mototsume-d6brdm4_1
+    21300004: asteroid_belt_12a_by_mototsume-d6brdm4_2
+    21300006: asteroid_belt_12a_by_mototsume-d6brdm4_3
+    21300008: asteroid_belt_12a_by_mototsume-d6brdm4_4
+    21300010: asteroid_belt_12a_by_mototsume-d6brdm4_5
+    21300012: asteroid_belt_12a_by_mototsume-d6brdm4_6
+    21300014: asteroid_belt_12a_by_mototsume-d6brdm4_7
+    21300016: asteroid_belt_12a_by_mototsume-d6brdm4_8
+    21300018: asteroid_belt_12a_by_mototsume-d6brdm4_9
+    21300020: asteroid_belt_12a_by_mototsume-d6brdm4_10
+    21300022: asteroid_belt_12a_by_mototsume-d6brdm4_11
+    21300024: asteroid_belt_12a_by_mototsume-d6brdm4_12
+    21300026: asteroid_belt_12a_by_mototsume-d6brdm4_13
+    21300028: asteroid_belt_12a_by_mototsume-d6brdm4_14
+    21300030: asteroid_belt_12a_by_mototsume-d6brdm4_15
+    21300032: asteroid_belt_12a_by_mototsume-d6brdm4_16
+    21300034: asteroid_belt_12a_by_mototsume-d6brdm4_17
+    21300036: asteroid_belt_12a_by_mototsume-d6brdm4_18
+    21300038: asteroid_belt_12a_by_mototsume-d6brdm4_19
+    21300040: asteroid_belt_12a_by_mototsume-d6brdm4_20
+    21300042: asteroid_belt_12a_by_mototsume-d6brdm4_21
+    21300044: asteroid_belt_12a_by_mototsume-d6brdm4_22
+    21300046: asteroid_belt_12a_by_mototsume-d6brdm4_23
+    21300048: asteroid_belt_12a_by_mototsume-d6brdm4_24
+    21300050: asteroid_belt_12a_by_mototsume-d6brdm4_25
+    21300052: asteroid_belt_12a_by_mototsume-d6brdm4_26
+    21300054: asteroid_belt_12a_by_mototsume-d6brdm4_27
+    21300056: asteroid_belt_12a_by_mototsume-d6brdm4_28
+    21300058: asteroid_belt_12a_by_mototsume-d6brdm4_29
+    21300060: asteroid_belt_12a_by_mototsume-d6brdm4_30
+    21300062: asteroid_belt_12a_by_mototsume-d6brdm4_31
+    21300064: asteroid_belt_12a_by_mototsume-d6brdm4_32
+    21300066: asteroid_belt_12a_by_mototsume-d6brdm4_33
+    21300068: asteroid_belt_12a_by_mototsume-d6brdm4_34
+    21300070: asteroid_belt_12a_by_mototsume-d6brdm4_35
+    21300072: asteroid_belt_12a_by_mototsume-d6brdm4_36
+    21300074: asteroid_belt_12a_by_mototsume-d6brdm4_37
+    21300076: asteroid_belt_12a_by_mototsume-d6brdm4_38
+    21300078: asteroid_belt_12a_by_mototsume-d6brdm4_39
+    21300080: asteroid_belt_12a_by_mototsume-d6brdm4_40
+    21300082: asteroid_belt_12a_by_mototsume-d6brdm4_41
+    21300084: asteroid_belt_12a_by_mototsume-d6brdm4_42
+    21300086: asteroid_belt_12a_by_mototsume-d6brdm4_43
+    21300088: asteroid_belt_12a_by_mototsume-d6brdm4_44
+    21300090: asteroid_belt_12a_by_mototsume-d6brdm4_45
+    21300092: asteroid_belt_12a_by_mototsume-d6brdm4_46
+    21300094: asteroid_belt_12a_by_mototsume-d6brdm4_47
+    21300096: asteroid_belt_12a_by_mototsume-d6brdm4_48
+    21300098: asteroid_belt_12a_by_mototsume-d6brdm4_49
+    21300100: asteroid_belt_12a_by_mototsume-d6brdm4_50
+    21300102: asteroid_belt_12a_by_mototsume-d6brdm4_51
+    21300104: asteroid_belt_12a_by_mototsume-d6brdm4_52
+    21300106: asteroid_belt_12a_by_mototsume-d6brdm4_53
+    21300108: asteroid_belt_12a_by_mototsume-d6brdm4_54
+    21300110: asteroid_belt_12a_by_mototsume-d6brdm4_55
+    21300112: asteroid_belt_12a_by_mototsume-d6brdm4_56
+    21300114: asteroid_belt_12a_by_mototsume-d6brdm4_57
+    21300116: asteroid_belt_12a_by_mototsume-d6brdm4_58
+    21300118: asteroid_belt_12a_by_mototsume-d6brdm4_59
+    21300120: asteroid_belt_12a_by_mototsume-d6brdm4_60
+    21300122: asteroid_belt_12a_by_mototsume-d6brdm4_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 531
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 439
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 497
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 485
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 450
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 464
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 455
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 429
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 428
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 397
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 396
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 388
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 379
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 321
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 404
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 389
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 392
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_17
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 347
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 340
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 360
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 355
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 371
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_22
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 347
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 257
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 300
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 261
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 257
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 323
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_28
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 332
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 320
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 282
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 250
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 218
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 265
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 117
+        width: 95
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_35
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 282
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_36
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 272
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_37
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 234
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 202
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_40
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 218
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_41
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 250
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 231
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 217
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_44
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 170
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_45
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 215
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 209
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 178
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_48
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_49
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 148
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 158
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 140
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 169
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 16
+        width: 111
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_54
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 138
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_55
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 155
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_56
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 98
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 110
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_58
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 120
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_59
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 16
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_60
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 36
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_belt_12a_by_mototsume-d6brdm4_61
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 35
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
